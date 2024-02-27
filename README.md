@@ -73,7 +73,7 @@ If you find this project useful for your research, please use the following BibT
 
 ```
 @article{wu2023beyond,
-  title={Beyond Homophily and Homogeneity Assumption: Relation-based Frequency Adaptive Graph Neural Networks},
+  title={Beyond homophily and homogeneity assumption: Relation-based frequency adaptive graph neural networks},
   author={Wu, Lirong and Lin, Haitao and Hu, Bozhen and Tan, Cheng and Gao, Zhangyang and Liu, Zicheng and Li, Stan Z},
   journal={IEEE Transactions on Neural Networks and Learning Systems},
   year={2023},
